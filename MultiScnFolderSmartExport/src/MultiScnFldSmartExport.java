@@ -146,5 +146,11 @@ public class MultiScnFldSmartExport
 	
 	}
 }	
+//Added a lines from testing purpose
+public static void main ()
+{
+	hi this is for testing
+}
+
 
 
