@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_141"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/anjireddyp/Desktop/OdiJarFiles/javax.management.j2ee.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anjireddyp/Desktop/OdiJarFiles/jmxspi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anjireddyp/Desktop/OdiJarFiles/odi-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anjireddyp/Desktop/OdiJarFiles/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anjireddyp/Desktop/OdiJarFiles/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anjireddyp/Desktop/OdiJarFiles/oracle.odi-jaxrsri.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anjireddyp/Desktop/OdiJarFiles/oracle.odi-sdk-jse.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anjireddyp/Desktop/OdiJarFiles/ucp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anjireddyp/Desktop/OdiJarFiles/xml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anjireddyp/Desktop/OdiJarFiles/xmlparserv2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anjireddyp/Desktop/OdiJarFiles/XmlSchema-1.4.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
